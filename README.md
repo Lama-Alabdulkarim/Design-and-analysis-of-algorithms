@@ -3,6 +3,6 @@ The project manages employee attendance in a university hierarchy tree. The goal
 
 The repository contains 3 files:
 
-1. NewAlgorithm
-2. solution
-3. file
+1. NewAlgorithm: includes the code.
+2. solution: includes the main.
+3. file: contain data about employees
